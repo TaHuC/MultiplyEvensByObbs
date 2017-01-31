@@ -1,0 +1,3 @@
+/Users/TaHuC/Projects/MultiplyEvensByObbs/MultiplyEvensByObbs/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/MultiplyEvensByObbs/MultiplyEvensByObbs/bin/Release/MultiplyEvensByObbs.exe
+/Users/TaHuC/Projects/MultiplyEvensByObbs/MultiplyEvensByObbs/obj/x86/Release/MultiplyEvensByObbs.exe
